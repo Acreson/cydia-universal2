@@ -1,0 +1,11 @@
+Package: cydia-uni-lproj
+Section: Packaging
+Maintainer: PixelOmer
+Architecture: iphoneos-arm
+Version: 
+Depends: cydia-uni
+Description: languages and translations for Cydia
+Name: Cydia Universal Translations
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/cydia-lproj/
+Tag: purpose::uikit, role::enduser

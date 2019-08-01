@@ -1,0 +1,12 @@
+Package: cydia-shared
+Section: Packaging
+Maintainer: PixelOmer
+Architecture: iphoneos-arm
+Version: 
+Depends: cydia-uni
+Conflicts: cydia
+Provides: cydia (= 3.0)
+Description: Shared utilities for Cydia
+Name: Cydia Shared Utilities
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Tag: purpose::uikit, role::enduser
